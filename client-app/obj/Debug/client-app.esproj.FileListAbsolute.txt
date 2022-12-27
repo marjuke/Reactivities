@@ -1,0 +1,2 @@
+E:\DemoProject\React_ASPNET\Reactivities\Client-App\obj\Debug\client-app.esproj.SuggestedBindingRedirects.cache
+E:\DemoProject\React_ASPNET\Reactivities\Client-App\obj\Debug\client-app.esproj.CoreCompileInputs.cache
