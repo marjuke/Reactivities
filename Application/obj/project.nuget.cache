@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "CIND7f4oU30GGsCkxwHIrsBw+I4nXGwh6vqM5ySUbHLtgEn/9aVujGy7gYOsK/Xdm+KQOYjzvbT/5EGhJrxaJw==",
+  "dgSpecHash": "n0arcG1BcfMTIO83aERKoZaZJaeBVC5/d0rXg8TnXnziqQCBWg0zLhAbbCULZDwu+KNcdR8aleVIvoJRWyjaBA==",
   "success": true,
   "projectFilePath": "E:\\DemoProject\\React_ASPNET\\Reactivities\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Marjuke\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Marjuke\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
+    "C:\\Users\\Marjuke\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\Marjuke\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\Marjuke\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Marjuke\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Marjuke\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.1\\microsoft.data.sqlclient.5.0.1.nupkg.sha512",

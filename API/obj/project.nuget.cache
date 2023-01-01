@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "MXrSovRa3qXs+hXExfQ7Pe1fJdKUp79ij2XOVsarxluwZ9W/rjhr89N7wj0r0Vpe89E/ovl9qSIC03n/5F4FGw==",
+  "dgSpecHash": "22lJJhvUpB8rRIYbTw2praVZOq37hgQLa2+iag3aiABzNKjpse7+PGDnQV7QgGJZf6jirusYulJ3TADSBU//mQ==",
   "success": true,
   "projectFilePath": "E:\\DemoProject\\React_ASPNET\\Reactivities\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Marjuke\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Marjuke\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\Marjuke\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\Marjuke\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\Marjuke\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\Marjuke\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\Marjuke\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.1\\microsoft.aspnetcore.openapi.7.0.1.nupkg.sha512",
     "C:\\Users\\Marjuke\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.11\\microsoft.aspnetcore.razor.language.6.0.11.nupkg.sha512",
     "C:\\Users\\Marjuke\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
