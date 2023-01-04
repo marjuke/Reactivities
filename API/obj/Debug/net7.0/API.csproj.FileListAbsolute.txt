@@ -282,3 +282,8 @@ E:\DemoProject\React_ASPNET\Reactivities\API\obj\Debug\net7.0\API.pdb
 E:\DemoProject\React_ASPNET\Reactivities\API\obj\Debug\net7.0\API.genruntimeconfig.cache
 E:\DemoProject\React_ASPNET\Reactivities\API\obj\Debug\net7.0\ref\API.dll
 E:\DemoProject\React_ASPNET\Reactivities\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+E:\DemoProject\React_ASPNET\Reactivities\API\bin\Debug\net7.0\MediatR.dll
+E:\DemoProject\React_ASPNET\Reactivities\API\bin\Debug\net7.0\MediatR.Contracts.dll
+E:\DemoProject\React_ASPNET\Reactivities\API\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\DemoProject\React_ASPNET\Reactivities\API\bin\Debug\net7.0\AutoMapper.dll
+E:\DemoProject\React_ASPNET\Reactivities\API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
