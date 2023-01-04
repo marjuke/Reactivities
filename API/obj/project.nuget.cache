@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "22lJJhvUpB8rRIYbTw2praVZOq37hgQLa2+iag3aiABzNKjpse7+PGDnQV7QgGJZf6jirusYulJ3TADSBU//mQ==",
+  "dgSpecHash": "q1PVhO2ZqFuqSd1wRmXgB86nMMmu3BQElyLSoQxXPt+VJh+uFz4o7PwH1xSkPDhgdJjxBSZrAoiXEI3YVWx1cQ==",
   "success": true,
   "projectFilePath": "E:\\DemoProject\\React_ASPNET\\Reactivities\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Marjuke\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\Marjuke\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\Marjuke\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Marjuke\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\Marjuke\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
