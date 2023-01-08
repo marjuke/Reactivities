@@ -19,7 +19,6 @@ namespace Application.Activities
             private readonly DataContext _context;            
             public Handler(DataContext context)
             {
-                
                 _context = context;
             }
 
@@ -27,6 +26,6 @@ namespace Application.Activities
             {
                 return await _context.Activities.ToListAsync(); 
             }
-        }
+        } 
     }
 }
